@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwooyek%2Fcookiecutter-django-website.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwooyek%2Fcookiecutter-django-website?ref=badge_shield)
+
 ===================================
 Cookiecutter Django Website Package
 ===================================
@@ -141,3 +143,6 @@ It will sync your local and origin repo, test, increment version number, setup a
 .. _`family tree`: https://github.com/wooyek/cookiecutter-django-website/network/members
 .. _`pip docs for requirements files`: https://pip.pypa.io/en/stable/user_guide/#requirements-files
 .. _`cookiecutter-django-website tutorial`: https://cookiecutter-django-website.readthedocs.io/en/latest/tutorial.html
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwooyek%2Fcookiecutter-django-website.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwooyek%2Fcookiecutter-django-website?ref=badge_large)
